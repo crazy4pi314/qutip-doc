@@ -89,7 +89,7 @@ All these states correspond to an average of two photons, but by visualizing
 the photon distribution in Fock basis the differences between these states are
 easily appreciated. 
 
-One frequently need to visualize the Fock-distribution in the way described
+One frequently needs to visualize the Fock-distribution in the way described
 above, so QuTiP provides a convenience function for doing this, see
 :func:`qutip.visualization.plot_fock_distribution`, and the following example:
 
